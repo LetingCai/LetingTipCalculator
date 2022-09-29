@@ -8,6 +8,12 @@ public class LetingTipCalculator {
         //Asking for user input to set up variables//
         System.out.println("How much is your bill?");
         double billAmount = scan.nextDouble;
+        
+        Sytem.out.println("Number of people");
+        int numberOfPeople = scan.nextInt;
+        
+        System.out.println("Tip Percentage?");
+        
 
 
     }
